@@ -9,8 +9,6 @@
 
 ### Tech Stack:
 
-### Tech Stack:
-
 ![Node.js](https://img.shields.io/badge/Node.js-brightgreen)![TypeScript](https://img.shields.io/badge/TypeScript-blue)![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![NestJS](https://img.shields.io/badge/NestJS-green)![Express](https://img.shields.io/badge/Express.js-lightgrey)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)![TypeOrm](https://img.shields.io/badge/TypeOrm-blue)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-red)![Mongoose](https://img.shields.io/badge/Mongoose-yellowgreen)![Sequelize](https://img.shields.io/badge/Sequelize-blue)
