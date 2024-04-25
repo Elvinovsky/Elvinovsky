@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi!👋 I'm Elvin.
 
-<!--
-**Elvinovsky/Elvinovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me:
+👨‍💻 Node.js & TypeScript Developer
 
-Here are some ideas to get you started:
+🌿 Plant Grower ♟️ Chess Enthusiast 🎬 Video Editing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![CONTACT_Me](https://img.shields.io/badge/CONTACT_Me-green)]([https://www.linkedin.com/in/elvin-agakerimov-79a8a4305/)
+
+### Tech Stack:
+
+![Node.js](https://img.shields.io/badge/Node.js-brightgreen)![TypeScript](https://img.shields.io/badge/TypeScript-blue)![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![NestJS](https://img.shields.io/badge/NestJS-green)![Express](https://img.shields.io/badge/Express.js-lightgrey)![Redis](https://img.shields.io/badge/Redis-red)
+![MongoDB](https://img.shields.io/badge/MongoDB-green)![TypeOrm](https://img.shields.io/badge/TypeOrm-blue)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-red)![Mongoose](https://img.shields.io/badge/Mongoose-yellowgreen)![Sequelize](https://img.shields.io/badge/Sequelize-blue)
+![Swagger](https://img.shields.io/badge/Swagger-orange)![Postman](https://img.shields.io/badge/Postman-red)
+![Yarn](https://img.shields.io/badge/Yarn-violet)![NPM](https://img.shields.io/badge/NPM-violet)
+![Jest](https://img.shields.io/badge/Jest-red)![Supertest](https://img.shields.io/badge/Supertest-brightgreen)
+![Docker](https://img.shields.io/badge/Docker-blue)
+![Angular](https://img.shields.io/badge/Angular-blue)
+![RxJS](https://img.shields.io/badge/RxJS-pink)
+![Effector](https://img.shields.io/badge/Effector-orange)
+
+
+
+
+[![](https://visitcount.itsvg.in/api?id=Elvinovsky&label=Profile%20Views&color=10&icon=3&pretty=false)](https://visitcount.itsvg.in)
+
+Thanks for stopping by! Open to conversations. Feel free to dive in! [Connect with me](https://www.linkedin.com/in/elvin-agakerimov-79a8a4305/)! 🚀
